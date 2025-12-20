@@ -7,4 +7,4 @@ This repository contains the raw TIFF dataset.
 
 ## Download
 Go to Releases and download the .zip files:
-https://github.com/kjelle291/Soliton_raw_files/releases/latest
+[https://github.com/kjelle291/Soliton_raw_files/releases/latest](https://github.com/kjelle29/Soliton_raw_files/releases/tag/_)
