@@ -1,8 +1,9 @@
-# Raw files for Solitons
+# Raw and MAT-files for Solitons
 
-This repository contains the raw TIFF dataset.
+This repository contains the raw TIFF dataset and processed MAT-files.
 
 ## Contents
+- Folder with MAT-files containing the dimensional x-coordinate and surface elevation (~1500KB each file)
 - Folders of TIFF images (~500MB each folder)
 
 ## Download
